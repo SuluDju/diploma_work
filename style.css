@@ -1,0 +1,36 @@
+html,
+body {
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h2 {
+    font-family: 'Faster One', cursive;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.links-nav {
+    justify-content: space-between;
+}
+
+.myCards {
+    width: 100%;
+    max-height: 300px;
+    overflow: auto;
+}
+
+ul {
+    margin-right: 8.7em;
+
+    list-style-type: none;
+}
